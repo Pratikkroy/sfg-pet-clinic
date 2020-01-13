@@ -1,6 +1,5 @@
 package guru.springframework.sfgpetclinic.services;
 
-import guru.springframework.sfgpetclinic.models.Owner;
 import guru.springframework.sfgpetclinic.models.Vet;
 
 import java.util.Set;
